@@ -1,0 +1,17 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: '0.0024'
+  checked: false
+- value: '0.0044'
+  checked: false
+- value: '0.0064'
+  checked: true
+- value: '0.0014'
+  checked: false
+name: New exercise

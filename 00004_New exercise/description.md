@@ -1,0 +1,1 @@
+Calcule la probabilidad de que un inscripto a la sede Lima elegido al azar no sea programador ni  economista:
