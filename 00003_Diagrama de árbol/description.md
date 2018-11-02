@@ -16,5 +16,5 @@ Entonces la probabilidad de obtener dos bolas rojas es:
 <br>
 <img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-probabilidad/master/assets/prob2_1541149410699.JPG" alt="prob2_1541149410699.JPG" width="auto" height="auto"><br>
 
-Veamos el razonamiento en le diagrama de árbol. Cada vez que avancemos por una rama, se multiplican las probabilidades de cada caso. Y si nos interesara conocer la probabilidad de ocurrencia de dos casos, debo sumar la probabilidad de cada rama.<br>
+Veamos el razonamiento en le diagrama de árbol. Cada vez que avancemos por una rama, se multiplican las probabilidades. Y si nos interesara conocer la probabilidad de ocurrencia de dos casos, debo sumar la probabilidad de cada rama.<br>
 <img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-probabilidad/master/assets/bolas_1541149591799.JPG" alt="bolas_1541149591799.JPG" width="auto" height="auto">
