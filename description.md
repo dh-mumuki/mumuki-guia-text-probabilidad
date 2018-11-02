@@ -1,1 +1,1 @@
-Alrededor del 0.8% de los inscriptos a Data Science en la sede Lima son programadoress, la cifra es ligeramente diferente para la sede Monroe, y aproximadamente 1 en 5 inscriptos a la sede Lima es economista. Suponiendo que estas características se heredan de forma independiente:
+Introducción

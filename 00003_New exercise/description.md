@@ -1,1 +1,0 @@
- Calcule la probabilidad de que un inscripto a la sede Lima elegido al azar sea programador,  economista o ambas:
