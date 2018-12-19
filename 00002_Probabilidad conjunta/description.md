@@ -12,4 +12,4 @@ Definimos los sucesos:<br>
 M: Obtenemos un as en la primera extracción.N: Obtenemos un as en la segunda extracción.Si la primera carta se repone, es decir, se coloca nuevamente en el mazo antes de hacer la segunda extracción, los sucesos son independientes, por lo que podemos calcular la probabilidad conjunta de la siguiente manera:
 <br>
 
-**P(MyN) = P(M∩N) = 4/52 x 4/52 = 0.006 = 0.06%**
+**P(MyN) = P(M∩N) = 4/52 x 4/52 = 0.006 = 0.6%**
